@@ -58,8 +58,6 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 </div>
 
-> "git commit -m "hope this works"
-
 ## Contribution Graph
 
 <picture>
@@ -69,7 +67,9 @@ I design and build fast, expressive interfaces that feel intentional on both des
 </picture>
 
 </div>
----
+
+> "git commit -m "hope this works"
+
 
 <div align="center">
 
