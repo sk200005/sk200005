@@ -60,14 +60,6 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 > "git commit -m "hope this works"
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
-
-</div>
-
 ## Contribution Graph
 
 <picture>
@@ -77,3 +69,12 @@ I design and build fast, expressive interfaces that feel intentional on both des
 </picture>
 
 </div>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
+
+
