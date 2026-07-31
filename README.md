@@ -74,7 +74,7 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 <div align="center">
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sk200005/sk200005/output/github-contribution-grid-snake-dark.svg">
