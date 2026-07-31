@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06b6d4&center=true&vCenter=true&width=640&lines=Code.%20Learn.%20Repeat.;Where%20AI%20meets%20full-stack%20development.;Building%20products%20people%20love.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06b6d4&center=true&vCenter=true&width=640&lines=Code.%20Learn.%20Repeat.;Where%20AI%20meets%20Full%20Stack...and%20bug%20becomes%20feature.;Building%20products%20people%20love.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-korde-7b76bb285/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:swayamkorde2005@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://swayamportfolio-lilac.vercel.app/)
 
@@ -58,20 +58,17 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 </div>
 
-> "git commit -m "hope this works""
+> "git commit -m "hope this works"
 
 ---
 
 <div align="center">
 
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/sk200005">github.com/sk200005</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
-
-
-
-<div align="center">
 
 ## Contribution Graph
 
