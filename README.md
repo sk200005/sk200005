@@ -58,7 +58,7 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 </div>
 
-> "Where AI meets full-stack development."
+> "git commit -m "hope this works""
 
 ---
 
