@@ -17,7 +17,7 @@
 I design and build fast, expressive interfaces that feel intentional on both desktop and mobile.
 
 - ⌖ **Location** · Pune, India
-- ◎ **Education** · Pune Institute of Computer Technology (PICT)
+- ◎ **Education** · Bachelor of Engineering - PICT, Pune
 - ⟳ **Learning** · Agentic AI
 - ✦ **Fun fact** · Building apps smarter than me.
 
@@ -63,8 +63,6 @@ I design and build fast, expressive interfaces that feel intentional on both des
 ---
 
 <div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/sk200005">github.com/sk200005</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
