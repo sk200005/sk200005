@@ -14,7 +14,7 @@
 
 ### About
 
-I design and build fast, expressive interfaces that feel intentional on both desktop and mobile.
+I build reliable products end to end, with a strong bias for maintainable systems and polished developer experience.
 
 - ⌖ **Location** · Pune, India
 - ◎ **Education** · Bachelor of Engineering - PICT, Pune
