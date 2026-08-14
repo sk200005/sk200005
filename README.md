@@ -54,7 +54,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sk200005&theme=aura&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sk200005&theme=aura)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
@@ -76,5 +76,4 @@ I build reliable products end to end, with a strong bias for maintainable system
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
-
 
