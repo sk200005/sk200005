@@ -54,7 +54,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sk200005&theme=ocean_dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sk200005&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
