@@ -91,7 +91,10 @@ Delivered a production-ready React + Tailwind CSS website for a coaching institu
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,py,js,postgres&perline=10" alt="C++, Python, JavaScript, SQL"/>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Core CS**
 <br>
@@ -103,8 +106,11 @@ Delivered a production-ready React + Tailwind CSS website for a coaching institu
 
 **Web and Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&perline=10" alt="React, Node.js, Express, FastAPI, Tailwind CSS"/>
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
@@ -112,8 +118,7 @@ Delivered a production-ready React + Tailwind CSS website for a coaching institu
 
 **AI / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch&perline=10" alt="PyTorch"/>
-<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-6B21A8?style=flat-square&logo=databricks&logoColor=white)
@@ -124,17 +129,24 @@ Delivered a production-ready React + Tailwind CSS website for a coaching institu
 
 **Databases and Data**
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=10" alt="MongoDB, PostgreSQL, Redis"/>
-<br>
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FF9900?style=flat-square&logo=amazonredshift&logoColor=white)
 ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0072FF?style=flat-square&logoColor=white)
 
 **DevOps and Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,github&perline=10" alt="Docker, AWS, GitHub Actions, Git, GitHub"/>
-<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+---
 
 ## 🏆 Achievements
 
