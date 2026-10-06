@@ -30,7 +30,7 @@ I build scalable full-stack applications and AI-powered systems, with a focus on
 - 🤖 **Building** · Agentic AI, RAG & AI Engineering
 - 💻 **Focus** · Full-Stack Development, Backend Systems & Generative AI
 - 🏆 **Achievement** · Finalist among 350+ teams at SciTech Innovation Hackathon 2025
-- 🏆 **Competitive Programming** · 2★ CodeChef (Max Rating 1463)· 400+ problems solved across LeetCode & CodeChef
+- ⭐ **Competitive Programming** · 2★ CodeChef (Max Rating 1463)· 400+ problems solved across LeetCode & CodeChef
 - 🌐 Check out my [portfolio website](https://swayamkorde-portfolio.vercel.app/) to see my work in one place!
 
 ---
