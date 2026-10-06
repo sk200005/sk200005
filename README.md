@@ -12,11 +12,11 @@
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swayamportfolio-lilac.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swayamkorde-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-korde-7b76bb285/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayamkorde2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sk200005)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Swayam2026/)
 
 </div>
 
@@ -30,8 +30,9 @@ I build scalable full-stack applications and AI-powered systems, with a focus on
 - 📈 **CGPA** · 9.01/10
 - 🤖 **Building** · Agentic AI, RAG & AI Engineering
 - 💻 **Focus** · Full-Stack Development, Backend Systems & Generative AI
-- 🏆 **Achievement** · Top 10 among 350+ teams at SciTech Innovation Hackathon 2025
-- 🧩 **DSA** · 2★ CodeChef · 350+ problems solved across LeetCode & CodeChef
+- 🏆 **Achievement** · Finalist among 350+ teams at SciTech Innovation Hackathon 2025
+- 🏆 **Competitive Programming** · 2★ CodeChef (Max Rating 1463)· 400+ problems solved across LeetCode & CodeChef
+- 🌐 Check out my [portfolio website](https://swayamkorde-portfolio.vercel.app/) to see my work in one place!
 
 ---
 
@@ -118,9 +119,9 @@ Building and deploying production-ready **React + Tailwind CSS** websites for bu
 
 ### 🏆 Achievements
 
-- 🏆 **Top 10** among 350+ teams at SciTech Innovation Hackathon 2025
-- ⭐ **2★ CodeChef** rating
-- 🧠 **350+ DSA problems** solved across LeetCode & CodeChef
+- 🏆 **Hackathons** Finalist — SciTech Innovation Hackathon 2025 (Top 10/250+ teams).
+- ⭐ **2★ CodeChef** (Max Rating 1463)
+- 🧠 **400+ DSA problems** solved across LeetCode & CodeChef
 - 🏓 **Department Captain, Table Tennis** — led team selection for inter-department tournaments
 
 ---
