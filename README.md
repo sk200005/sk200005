@@ -92,22 +92,36 @@ Delivered a production-ready React + Tailwind CSS website for a coaching institu
 **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=cpp,py,js,postgres&perline=10" alt="Languages"/>
+<br>
+C++ · Python · JavaScript · SQL
+
+**Core CS**
+<br>
+Data Structures & Algorithms · OOP · Design Patterns (MVC) · Operating Systems · Computer Networks
 
 **Web and Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&perline=10" alt="Web and Backend"/>
+<br>
+REST APIs · Microservices · BullMQ · Pydantic · SSE Streaming
 
 **AI / ML**
 <br>
 <img src="https://skillicons.dev/icons?i=pytorch&perline=10" alt="AI and ML"/>
 <br>
-LangGraph · RAG · Hugging Face · LLM Agents
+Generative AI · LLMs · RAG · AI Agents · LangGraph · Hugging Face · NLP · Machine Learning
 
-**Databases and Infrastructure**
+**Databases and Data**
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,githubactions,git&perline=10" alt="Databases and Infrastructure"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=10" alt="Databases"/>
+<br>
+pgvector (Vector DB) · Data Pipelines · Data Warehousing (Star Schema)
 
----
+**DevOps and Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git&perline=10" alt="DevOps and Tools"/>
+<br>
+CI/CD · Playwright
 
 ## 🏆 Achievements
 
