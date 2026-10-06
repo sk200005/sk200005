@@ -18,11 +18,11 @@ I build scalable full-stack applications and AI-powered systems, with a focus on
 
 - 🎓 **Education** · B.E. Electronics & Computer Engineering — PICT, Pune
 - 📈 **CGPA** · 9.01/10
-- 🤖 **Learning** · Agentic AI, RAG & AI Engineering
+- 🤖 **Building** · Agentic AI, RAG & AI Engineering
 - 💻 **Focus** · Full-Stack Development, Backend Systems & Generative AI
 - 🏆 **Achievement** · Top 10 among 350+ teams at SciTech Innovation Hackathon 2025
-- 🧩 **DSA** · 350+ problems solved across LeetCode & CodeChef
-- 🏓 **Leadership** · Department Captain, Table Tennis
+- 🧩 **DSA** · 2⭐ CodeChef (Max Rating 1463) · 400+ problems solved across LeetCode & CodeChef
+
 
 ### Featured Projects
 
