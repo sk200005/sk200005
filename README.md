@@ -22,9 +22,6 @@
 
 ---
 
-[![Building -> TrueThread](https://img.shields.io/badge/Building%20-%3E%20TrueThread-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/sk200005/TrueThread)
-![Pune, India](https://img.shields.io/badge/Pune%2C%20India-333?style=flat-square)
-
 ### About
 
 I build scalable full-stack applications and AI-powered systems, with a focus on backend architecture, distributed workflows, and production-ready engineering.
@@ -63,6 +60,8 @@ It aggregates RSS articles, performs automated fact-checking, computes weighted 
 
 #### 🎓 GradeX
 
+[![GitHub](https://img.shields.io/badge/GitHub-GradeX-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sk200005/GradeX)
+
 A full-stack academic management system using **Node.js, Express.js and MongoDB**, with separate OLTP/OLAP workloads and a **Star Schema data warehouse**.
 
 Includes data-mining-based at-risk student identification, role-based authentication and bulk CSV processing.
@@ -77,35 +76,43 @@ Building and deploying production-ready **React + Tailwind CSS** websites for bu
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 
-**Languages & Core CS**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="Languages"/>
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
-`SQL` · `OOP` · `Data Structures & Algorithms` · `Operating Systems` · `Computer Networks` · `SDLC` · `Agile` · `MVC`
+**Web Development**
 
-**Frontend**
+[![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend"/>
+**AI/ML & GenAI**
 
-**Backend & Databases**
+[![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
+[![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![RAG](https://img.shields.io/badge/RAG-6B21A8?style=for-the-badge&logo=ai&logoColor=white)](#)
+[![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI%20AGENTS-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white)](#)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark" alt="Backend & Databases"/>
+**Databases & Tools**
 
-`REST APIs` · `API Development` · `Backend Services` · `Vector DB` · `Data Pipelines` · `Data Warehousing` · `Data Modeling`
-
-**AI / ML & GenAI**
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI / ML"/>
-
-`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `LangGraph` · `NLP` · `Machine Learning` · `Hugging Face`
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws&theme=dark" alt="DevOps & Cloud"/>
-
-`CI/CD` · `GitHub Actions` · `Cloud (AWS)` · `Docker`
+[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sk200005)
+[![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
