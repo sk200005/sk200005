@@ -91,37 +91,50 @@ Delivered a production-ready React + Tailwind CSS website for a coaching institu
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,py,js,postgres&perline=10" alt="Languages"/>
-<br>
-C++ · Python · JavaScript · SQL
+<img src="https://skillicons.dev/icons?i=cpp,py,js,postgres&perline=10" alt="C++, Python, JavaScript, SQL"/>
 
 **Core CS**
 <br>
-Data Structures & Algorithms · OOP · Design Patterns (MVC) · Operating Systems · Computer Networks
+![DSA](https://img.shields.io/badge/DSA-2E7D32?style=flat-square&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-455A64?style=flat-square&logo=uml&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns%20(MVC)-6A1B9A?style=flat-square&logo=uml&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1BA0D7?style=flat-square&logo=wireshark&logoColor=white)
 
 **Web and Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&perline=10" alt="Web and Backend"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&perline=10" alt="React, Node.js, Express, FastAPI, Tailwind CSS"/>
 <br>
-REST APIs · Microservices · BullMQ · Pydantic · SSE Streaming
+![REST APIs](https://img.shields.io/badge/REST%20APIs-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 **AI / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch&perline=10" alt="AI and ML"/>
+<img src="https://skillicons.dev/icons?i=pytorch&perline=10" alt="PyTorch"/>
 <br>
-Generative AI · LLMs · RAG · AI Agents · LangGraph · Hugging Face · NLP · Machine Learning
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-6B21A8?style=flat-square&logo=databricks&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-4F46E5?style=flat-square&logo=robotframework&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0EA5E9?style=flat-square&logo=spacy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Databases and Data**
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=10" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=10" alt="MongoDB, PostgreSQL, Redis"/>
 <br>
-pgvector (Vector DB) · Data Pipelines · Data Warehousing (Star Schema)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FF9900?style=flat-square&logo=amazonredshift&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0072FF?style=flat-square&logoColor=white)
 
 **DevOps and Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git&perline=10" alt="DevOps and Tools"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,github&perline=10" alt="Docker, AWS, GitHub Actions, Git, GitHub"/>
 <br>
-CI/CD · Playwright
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## 🏆 Achievements
 
