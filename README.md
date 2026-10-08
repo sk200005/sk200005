@@ -29,7 +29,7 @@ I build scalable full-stack applications and AI-powered systems, with a focus on
 - **Education:** B.E. Electronics & Computer Engineering, PICT Pune (CGPA 9.01/10)
 - **Focus:** Full-stack development, backend systems, generative AI
 - **Currently building:** Agentic AI, RAG and AI engineering projects
-- **Portfolio:** [swayamkorde-portfolio.vercel.app](https://swayamkorde-portfolio.vercel.app/) has all my work in one place
+- **Portfolio:** [swayamkorde.online](https://swayamkorde.online) has all my work in one place
 
 ---
 
