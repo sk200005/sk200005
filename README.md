@@ -13,7 +13,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white)](https://swayamkorde-portfolio.vercel.app/)
-[![Resume](https://img.shields.io/badge/RESUME-E11D48?style=flat-square&logo=readthedocs&logoColor=white)]([./Swayam_Korde_Resume.pdf](https://drive.google.com/file/d/1VRdiB_rGLeObQHelJtdHvvYKEpeDuPhI/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/RESUME-E11D48?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1VRdiB_rGLeObQHelJtdHvvYKEpeDuPhI/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-korde-7b76bb285/)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Swayam2026/)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:swayamkorde2005@gmail.com)
